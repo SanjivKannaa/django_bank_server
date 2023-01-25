@@ -1,1 +1,1 @@
-# django_bank_server
+# bank_server
